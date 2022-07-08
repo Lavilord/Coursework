@@ -1,0 +1,28 @@
+.inform_cart{
+    display: flex;
+    align-items: center;
+    max-width: 1500px;
+    font-size: 25px;
+
+}
+
+.under_inform_cart{
+    display: flex;
+    justify-content: space-around;
+    max-width: 500px;
+}
+.barometr_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 10px;
+    background: #00BFFF;
+    color: green;
+    border: 1px solid black;
+    height: 135px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 35px;
+}
+
+

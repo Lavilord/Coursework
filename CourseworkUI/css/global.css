@@ -1,0 +1,32 @@
+body{
+    background: #91a0ec;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+    font-family: 'Times New Roman', sans-serif;
+
+}
+
+h1{
+display: flex;
+justify-content: center;
+align-items: center;
+color: green;
+max-width: 800px;
+font-size: xxx-large;
+background: #00BFFF;
+border: 1px solid black;
+height: 135px;
+padding-left: 50px;
+padding-right: 50px;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}

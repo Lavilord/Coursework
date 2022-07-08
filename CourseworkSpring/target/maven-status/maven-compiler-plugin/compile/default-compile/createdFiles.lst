@@ -1,0 +1,11 @@
+com\alex\service\BmpDataService.class
+com\alex\models\BmpData.class
+com\alex\config\SwaggerConfiguration.class
+com\alex\DTO\BmpDataDTO.class
+com\alex\exceptions\ItemException.class
+com\alex\models\GeneralModel.class
+com\alex\controller\BmpDataController.class
+com\alex\exceptions\ItemNotFoundExceptionHandler.class
+com\alex\Application.class
+com\alex\exceptions\ItemNotFoundException.class
+com\alex\repository\BmpDataRepository.class
